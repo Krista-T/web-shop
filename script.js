@@ -39,7 +39,6 @@ function showBikes(bike) {
   copy.querySelector("h4").textContent = bike.title.rendered;
   copy.querySelector(".price").innerHTML = "Price-  $" +  bike.price ;
   copy.querySelector(".color div").style.background = bike.colors;
-  copy.querySelector(".color div").style.background = bike.colors_copy;
   copy.querySelector(".in-stock").textContent = "In Stock- " + bike.in_stock;
 
   //IF NO COLOR

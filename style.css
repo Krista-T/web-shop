@@ -130,11 +130,12 @@ li button {
  
 }
 
-.color div {
+.color2 {
   display: inline-block;
   width: 20px;
   height: 20px;
   border: none;
+  color: #a13720; 
   margin-left: 3%;
  
 }
