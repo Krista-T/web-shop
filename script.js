@@ -1,5 +1,5 @@
 function fetchData() {
-  fetch("http://krista-t.com/web-shop/wp-json/wp/v2/bike?_embed")
+  fetch("http://krista-t.com/bike-shop/wp-json/wp/v2/bike?_embed")
 
 
     //initialize data from json
